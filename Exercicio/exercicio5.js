@@ -1,9 +1,5 @@
-let numero = prompt("Numero interio")
-
-numero = parseFloat(numero)
-
-console.log(numero*numero)
-
-console.log("O numero elevado ao quadrado é...  " +(numero*numero))
-
-let total = numero * numero
+let numero = prompt("Escreva um número para saber o seu valor ao quadrado")
+console.log(numero)
+console.log("CALCULANDO...")
+total = numero * numero
+console.log("O resultado da elevação ao quadrado é : " + total);
