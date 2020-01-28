@@ -1,7 +1,4 @@
-var contador = 0;
-do
-{
-alert(“Olá”);
-contador = contador + 1;
+for(let i=1; i<=10; i++){
+    document.write("ITUANO CAMPEÃO PAULISTA 2019 <br>")
 }
-while(contador < 5)
+
