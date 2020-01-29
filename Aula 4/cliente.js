@@ -7,7 +7,7 @@ resposta = true
 while (resposta== true) {
     cliente = prompt("Nome do cliente")
     document.write("<li>" + cliente + "</li>" )
-    resposta = confirm("Cadastgrar outro cliente: Sim ou Não")
+    resposta = confirm("Cadastrar outro cliente: Sim ou Não")
 }
 
 document.write("</ul>")
