@@ -1,0 +1,39 @@
+body{
+    text-align: center
+}
+
+.margem{
+    
+}
+
+.nome-e-sobrenome{
+    text-align: center
+}
+
+.email{
+    text-align: center
+}
+
+.obs{
+    text-align: center
+}
+
+form label{
+    display: block;
+    margin-top: 15px;
+    text-align: center
+}
+
+.campo-padrao{
+    width: 30%;
+    padding: 5px;
+    display: block;
+    text-align: center
+}
+
+.botao{
+    padding: 5px;
+    margin-top: 20px;
+    margin-right: 10px;
+    text-align: center
+}
