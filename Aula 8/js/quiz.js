@@ -27,3 +27,8 @@ function VerResposta3(){
         document.querySelector(".resposta2").innerHTML = "<em> Resposta errada </em>"
     }
 } 
+
+function VoceAcertou(texto){
+    alert(texto);
+    
+}
